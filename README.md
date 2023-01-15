@@ -1,10 +1,16 @@
-# Лабораторная работа №13
+# Лабораторная работа №14
 
 **Установка docker и docker-compose**
 
 ```bash
 $ sudo pacman -S docker
 $ sudo pacman -S docker-compose
+```
+
+**Запуск docker**
+
+```bash
+$ systemctl start docker
 ```
 
 **Запуск docker-контейнеров**
